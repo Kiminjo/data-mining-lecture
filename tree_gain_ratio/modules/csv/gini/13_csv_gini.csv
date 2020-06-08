@@ -1,0 +1,4 @@
+,depth,lift,coverage,homogeneity,pred,number_of_variable
+0,1,1.0844,0.805,0.98,0,1
+1,2,0.9781,0.128,0.884,0,2
+2,2,10.0052,0.068,0.963,1,2
